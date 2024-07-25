@@ -9,7 +9,7 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "deploy": "vue-cli-service build && gh-pages -d dist"
+    "deploy": "nuxt generate && npx gh-pages -d dist"
   },
   "dependencies": {
     "@nuxt/kit": "^3.6.5",

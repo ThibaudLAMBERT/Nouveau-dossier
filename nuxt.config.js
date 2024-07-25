@@ -56,5 +56,8 @@ export default {
 
   generate: {
     dir: "html"
+  },
+  router: {
+    base: '/Nouveau-dossier/' // Remplacez 'nom-du-repo' par le nom de votre repository GitHub
   }
 };
