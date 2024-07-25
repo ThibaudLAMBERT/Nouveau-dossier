@@ -55,7 +55,7 @@ export default {
   build: {},
 
   generate: {
-    dir: "html"
+    dir: "dist"
   },
   router: {
     base: 'https://github.com/ThibaudLAMBERT/Nouveau-dossier' // Remplacez 'nom-du-repo' par le nom de votre repository GitHub
