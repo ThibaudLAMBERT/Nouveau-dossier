@@ -58,6 +58,6 @@ export default {
     dir: "html"
   },
   router: {
-    base: '/Nouveau-dossier/' // Remplacez 'nom-du-repo' par le nom de votre repository GitHub
+    base: 'https://github.com/ThibaudLAMBERT/Nouveau-dossier' // Remplacez 'nom-du-repo' par le nom de votre repository GitHub
   }
 };
